@@ -1,8 +1,7 @@
   👋 Hi, I'm Victor
   
-  🌱 I’m currently learning Sistems Engineering at UNI 
-  
-  😄 Pronouns: He/him
+      🌱 I’m currently learning Sistems Engineering at UNI 
+
 
 <!---
 OtherHmm/OtherHmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
