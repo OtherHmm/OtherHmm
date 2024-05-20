@@ -1,5 +1,7 @@
-  👋 Hi, I’m @OtherHmm
+  👋 Hi, I'm Victor Alejandro Martinez Castellón
+  
   🌱 I’m currently learning Sistems Engineering at UNI 
+  
   😄 Pronouns: He/him
 
 <!---
