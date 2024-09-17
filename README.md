@@ -1,4 +1,5 @@
-  👋 Hi, I'm Victor
+  👋 Hi, I'm Victor, AKA Otperito, My pleasure :3
+  Trying to Try Harder 
   
       🌱 I’m currently learning Sistems Engineering at UNI 
 
