@@ -1,5 +1,5 @@
-  👋 My pleasure :3 I'm Victor, AKA Otpherito. 
-  Trying to Try Harder 
+  👋 My pleasure :3 I'm Victor. 
+  Trying to Try Harder	
   
       🌱 I’m currently learning Sistems Engineering at UNI 
 
