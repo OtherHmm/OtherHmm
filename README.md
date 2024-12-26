@@ -1,7 +1,7 @@
 # 👋 ¡Hi, I'm Victor! 
  _My pleasure :3_ 
 
-Welcome to my GitHub space, where I combine my passion for programming and the arts in a chill vibe. n_n
+Welcome to my GitHub space, where I combine my passion for programming and the simplicity in a chill vibe. n_n
 
 ### ✏️ About Me
 
